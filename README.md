@@ -1,4 +1,4 @@
-# Do the economic factors of a LGA impact crime?
+# Do the economic factors of an LGA impact crime?
 
 Our project aims to analyse and compare criminal data in Sydney and investigate a relationship with key factors such as income data in corresponding areas of Sydney and NSW. 
 Through our analysis we are aiming to find a relationship between key income statistics such as average household income and education, and correlate this to crime committed in that area. By closely analysing relationships between these economic factors and the crimes committed we intend to draw informed conclusions.
