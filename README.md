@@ -8,3 +8,5 @@ This project includes the following:
 * Crime data exploration and visualisation
 * K-means clustering analysis of crime across NSW LGAs
 * Regression analysis of crime and socio-econimic factors
+
+*This project was completed in Semester 2 2021 at Macquarie University for COMP2200 - Data Science.*
